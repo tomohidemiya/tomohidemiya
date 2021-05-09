@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tomohide Miya</h1>
+<h1 align="center">Hi, I'm tomohide miya</h1>
 
 <div style="width: 100%; display:flex; justify-content: space-between; flex-wrap: wrap;">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomohidemiya&show_icons=true&locale=en" alt="tomohidemiya" />
