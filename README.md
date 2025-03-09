@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomohidemiya" alt="tomohidemiya" /></a> </p>
 
-- 🔭 I’m currently working on [hokan inc.](https://www.hokan.io/)
-
-- 🤝 I’m looking for help with [hitotsu](https://hitotsu.co.jp/)
+- 🔭 I’m currently working on [HITOTSU inc.](https://hitotsu.co.jp/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
